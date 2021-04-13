@@ -1,6 +1,7 @@
 Grupo N8 (fork 8)
 Rodriguez, Macarena
 Santarelli, Luca
+Scorticati, Agustin
 
 # Calc
 
