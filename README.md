@@ -1,3 +1,6 @@
+Grupo N8 (fork 8)
+Santarelli Luca
+
 # Calc
 
 Calculadora con funciones simples.
